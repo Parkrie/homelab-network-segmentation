@@ -43,7 +43,7 @@ The Default VLAN is reserved strictly for management traffic with no end-user de
 
 Storage sits in its own dedicated VLAN rather than sharing the server subnet. This allows explicit, granular rules about which VLANs can reach stored data rather than granting implicit access to anything in the server range.
 
-![Network Topology](diagrams/network-topology.svg)
+![Network Topology](diagrams/network-topology.png)
 
 ---
 
